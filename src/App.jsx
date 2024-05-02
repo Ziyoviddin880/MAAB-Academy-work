@@ -1,5 +1,7 @@
+import HomePage from "./routers/homePage/HomePage";
+
 function App() {
-  return <div className="container"></div>;
+  return <HomePage />;
 }
 
 export default App;

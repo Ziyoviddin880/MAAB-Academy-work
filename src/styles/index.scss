@@ -3,3 +3,31 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.title-color {
+  color: #e26020;
+}
+.bg-color {
+  background-color: #5a90f9;
+}
+
+.bg-image {
+  background-image: url("./bg-image1.avif");
+  background-position: center center;
+}
+
+.mr-x {
+  margin: 0 -16px;
+}
+
+input {
+  outline: none;
+}
+
+footer {
+  background-color: #0c081a;
+}
+
+.footer-box {
+  background-color: #1f1c2b;
+}
